@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim',cursive;
+    text-align: center;
+    
+}
+
+div{
+    background-color: #0e2f2f;
+    height: 200px;
+    width: 500px;
+    margin:auto;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+h2{
+    text-shadow:2px 2px 1px rgb(91,92,95) ;
+    color:chocolate
+}
+button{
+    background-color: rgb(247,173,82);
+    border-radius: 15px ;
+    height: 30px;
+    width: 100px;
+    margin:auto;
+    margin:20px;
+}
+button:hover{
+    background-color: rgb(83,83,82);
+}
+input{
+    border-radius: 10px;
+    color: black;
+}
+a i{
+   
+    margin:15px 5px 0px 5px; 
+}
